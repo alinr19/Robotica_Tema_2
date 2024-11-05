@@ -9,8 +9,15 @@ Am folosit :
    -5x Rezistoare (3x 220/330 ohm, 2x 1000 ohm)
    -Breadbord
    -Fire de legătură
+
+
+
+   
 Schema:
     ![img_tema2_robotica](https://github.com/user-attachments/assets/c9ed7270-35f3-40c1-94e3-d5dea6404040)
+
+
+
 
 Descriere:
     La inceput, jocul este repaus si LED-ul RGB lumineaza alb. Se selecteaza nivelul de dificultate prin apasarea butonului , iar in terminal va fi 
