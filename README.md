@@ -3,16 +3,16 @@
 Tema 2 este bazate pe jocul TypeRacer Game 
 
 Am folosit : 
-   -Arduino UNO (ATmega328P microcontroller)
-   -1x LED RGB (pentru a semnaliza dacă cuvântul corect e scris greșit sau nu)
-   -2x Butoane (pentru start/stop rundă și pentru selectarea dificultății)
-   -5x Rezistoare (3x 220/330 ohm, 2x 1000 ohm)
-   -Breadbord
-   -Fire de legătură
+Arduino UNO (ATmega328P microcontroller)
+1x LED RGB (pentru a semnaliza dacă cuvântul corect e scris greșit sau nu)
+2x Butoane (pentru start/stop rundă și pentru selectarea dificultății)
+5x Rezistoare (3x 220/330 ohm, 2x 1000 ohm)
+Breadbord
+Fire de legătură
 
 
 
-   
+
 Schema:
     ![img_tema2_robotica](https://github.com/user-attachments/assets/c9ed7270-35f3-40c1-94e3-d5dea6404040)
 
